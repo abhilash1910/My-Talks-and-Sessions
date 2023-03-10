@@ -5,6 +5,7 @@
 - [Accelerated Deep Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9tcibg6P7AhUK4DgGHfGvCSQQtwJ6BAgREAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLUmSaUb23fk&usg=AOvVaw28_X17GkL0Qh1IliYEeJfg) :IIT Guwahati
 - [Diffusion Models](https://datahack.analyticsvidhya.com/contest/datahour-diffusion-models-for-generative-arts/) : Analytics Vidhya
 - [ChatGPT](https://www.youtube.com/watch?v=rYEpePU75NU&t=4855s) : VIT Institute 
+- [Accelerating Pytorch with Intel Extension for Pytorch](https://github.com/deltatrelabs/community-global-ai-bootcamp-torino-italy-2023) [Slides](https://github.com/deltatrelabs/community-global-ai-bootcamp-torino-italy-2023) : Global Ai Bootcamp Italy '23
 - ML India NLP/ Deep Graph Learning/Reinforcement Learning Series
   - [NLP Workshops](https://www.linkedin.com/in/abhilash-majumder-1aa7b9138/details/experience/1684416359/multiple-media-viewer?profileId=ACoAACGUDNIBSP8s4Hur10coHc5yhD7EGwZSz2Q&treasuryMediaId=1635462741962&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BzmEKd2B6RdqwHa9utSaftQ%3D%3D)
   - [Graph/NLP](https://www.linkedin.com/in/abhilash-majumder-1aa7b9138/details/experience/1684416359/multiple-media-viewer?profileId=ACoAACGUDNIBSP8s4Hur10coHc5yhD7EGwZSz2Q&treasuryMediaId=1635462747396&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BzmEKd2B6RdqwHa9utSaftQ%3D%3D)
