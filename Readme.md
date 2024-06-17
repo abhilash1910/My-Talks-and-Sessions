@@ -1,5 +1,10 @@
 # Talks and Sessions in Deep Learning:
 
+### ISO:C++ WG21 conferences
+- [C++ Russia SYCL: Integrated compiler runtime for accelerated deep learning](https://cppconf.ru/en/talks/c2fef9ed41004a58990b0128af78100b/) 
+- [using std::c++ 2024](https://eventos.uc3m.es/105614/programme/using-std-cpp-2024.html)
+
+###  Talks on deep learning
 - [Low Dimensional Embeddings in Language Processing](https://www.slideshare.net/AbhilashMajumder/pydata-los-angeles-2020-abhilash-majumder): Pydata LA
 - [Quantum Deep Learning](https://www.youtube.com/watch?v=p5jOwsnGgwI) : Europython
 - [Accelerated Deep Learning](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9tcibg6P7AhUK4DgGHfGvCSQQtwJ6BAgREAI&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLUmSaUb23fk&usg=AOvVaw28_X17GkL0Qh1IliYEeJfg) :IIT Guwahati
